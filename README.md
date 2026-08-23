@@ -18,14 +18,11 @@
     <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <a href="mailto:guigo.abf@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://SEU_PORTFOLIO.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
     </a>
   </p>
 
@@ -39,13 +36,13 @@
 const aguinaldo = {
     pronouns: "ele/dele",
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SQL"],
-    tools: ["Git", "GitHub", "VS Code", "Docker", "Figma"],
+    tools: ["Git", "GitHub", "VS Code", "Docker"],
     currentFocus: "Aprimorando habilidades em desenvolvimento web & novas tecnologias 🚀",
     funFact: "Amo resolver problemas complexos com soluções simples e elegantes 💡"
 };
 ```
 
-- 🔭 Atualmente trabalhando em **projetos pessoais e profissionais inovadores**
+- 🔭 Atualmente trabalhando em **projetos inovadores**
 - 🌱 Constantemente aprendendo e explorando **novas stacks e arquiteturas**
 - 💬 Me pergunte sobre **Desenvolvimento Web, APIs, Banco de Dados, etc.**
 - ⚡ Curiosidade: **Sempre pronto para um bom café e uma boa conversa sobre tecnologia! ☕**
@@ -68,7 +65,6 @@ const aguinaldo = {
   <!-- Frameworks & Bibliotecas -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
   <br/>
@@ -78,7 +74,6 @@ const aguinaldo = {
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
@@ -91,26 +86,31 @@ const aguinaldo = {
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguinaldobrga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=aguinaldobrga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <!-- Activity Graph -->
+  <p align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aguinaldobrga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   </p>
 </div>
 
 ---
 
-### 🐍 Snake Game de Contribuições
+### 🐍 Snake Game (Contribuições)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aguinaldobrga/aguinaldobrga/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
