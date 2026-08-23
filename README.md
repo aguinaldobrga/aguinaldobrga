@@ -1,12 +1,16 @@
 <div align="center">
   
   <!-- Banner / Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Olá,%20eu%20sou%20o%20Aguinaldo!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Aguinaldo%20Braga%20Ferreira%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <!-- Typing SVG Effect -->
   <a href="https://github.com/aguinaldobrga">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Desenvolvedor+de+Software;Apaixonado+por+tecnologia+%26+inova%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Buscando+sempre+evoluir+e+aprender!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Desenvolvedor+Web+%7C+Full+Stack;Explorando+Front-end+%26+Back-end;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Criando+projetos+pr%C3%A1ticos+e+inovadores!" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+    📍 <b>Manaus e Região, Brasil</b>
+  </p>
 
   <!-- Profile Views Badge -->
   <p align="center">
@@ -15,13 +19,13 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/aguinaldo-braga-ferreira-58913b360/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:guigo.abf@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <a href="https://www.instagram.com/gui_bragaoficial/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -34,18 +38,20 @@
 
 ```javascript
 const aguinaldo = {
-    pronouns: "ele/dele",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SQL"],
-    tools: ["Git", "GitHub", "VS Code", "Docker"],
-    currentFocus: "Aprimorando habilidades em desenvolvimento web & novas tecnologias 🚀",
-    funFact: "Amo resolver problemas complexos com soluções simples e elegantes 💡"
+    nome: "Aguinaldo Braga Ferreira",
+    pronomes: "ele/dele",
+    localizacao: "Manaus e Região, AM - Brasil 📍",
+    papel: "Desenvolvedor Web & Full Stack 💻",
+    stacks: ["JavaScript", "Python", "HTML5", "CSS3", "SQL"],
+    focoAtual: "Desenvolvendo projetos práticos no GitHub, explorando Front-end e Back-end 🚀",
+    contato: "guigo.abf@gmail.com"
 };
 ```
 
-- 🔭 Atualmente trabalhando em **projetos inovadores**
-- 🌱 Constantemente aprendendo e explorando **novas stacks e arquiteturas**
-- 💬 Me pergunte sobre **Desenvolvimento Web, APIs, Banco de Dados, etc.**
-- ⚡ Curiosidade: **Sempre pronto para um bom café e uma boa conversa sobre tecnologia! ☕**
+- 🔭 **Atuação:** Desenvolvedor Web focado em criar soluções práticas e eficientes.
+- 💡 **Explorando:** Desenvolvimento Full Stack, integrando o melhor do Front-end e Back-end.
+- 📍 **Localização:** Manaus e Região.
+- 💬 **Conecte-se comigo:** Aberto a conexões, trocas de conhecimento e projetos colaborativos!
 
 ---
 
@@ -55,10 +61,10 @@ const aguinaldo = {
 
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <br/>
 
@@ -70,10 +76,10 @@ const aguinaldo = {
   <br/>
 
   <!-- Ferramentas & Bancos de Dados -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
