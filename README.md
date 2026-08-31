@@ -99,14 +99,6 @@ const aguinaldo = {
       </td>
     </tr>
   </table>
-
-  <!-- Streak Stats -->
-  [![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <!-- Activity Graph -->
-  [![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 ---
