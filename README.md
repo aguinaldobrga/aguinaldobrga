@@ -91,24 +91,22 @@ const aguinaldo = {
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+     <td>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=aguinaldobrga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+  [![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=aguinaldobrga&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <!-- Activity Graph -->
-  <p align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aguinaldobrga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </p>
+  [![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aguinaldobrga&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
